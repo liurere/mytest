@@ -9,7 +9,7 @@ public class Tdfgds {
 	}
 	
     public void a() {
-		
+    	System.out.println("abc");
 	}
 	
 }
