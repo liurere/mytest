@@ -10,6 +10,8 @@ public class Test2 {
 	
 	public void bb() {
 		
+		System.out.println("abc");
+		
 	}
 	
 }
