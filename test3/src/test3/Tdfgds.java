@@ -12,7 +12,7 @@ public class Tdfgds {
 		
 	}
 	
-	public void a() {
+    public void a() {
 		
 	}
 	
