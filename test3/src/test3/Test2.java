@@ -12,7 +12,7 @@ public class Test2 {
 		
 		System.err.println("rew");
 		System.out.println("abc");
-		
+		System.out.println("ddd");
 	}
 	
 }
