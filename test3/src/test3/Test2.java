@@ -11,6 +11,7 @@ public class Test2 {
 	public void bb() {
 		
 		System.err.println("rew");
+		System.out.println("abc");
 		
 	}
 	
