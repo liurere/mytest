@@ -7,6 +7,13 @@ public class Tdfgds {
 		System.out.println("hello worled1");
 		System.out.println("hello worled2");
 		System.out.println("hello worled3");
+		
+		System.out.println("re");
+		
+	}
+	
+	public void a() {
+		
 	}
 	
 }
